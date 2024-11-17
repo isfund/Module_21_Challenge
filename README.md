@@ -47,6 +47,8 @@ Steps Taken to Improve Performance: -Several steps were taken to imporve perform
 Adding additional layers and increasing the number of neurons.
 Adjusted the number of epochs and batch sizes.
 Implemented dropout layers to prevent overfitting.
+
+
 Summary
 Overall Results:
 The neural network model achieved an accuracy of 72.65%, which fell short of the desired performance target of 75%. The model demonstrated a moderate ability to predict the success of charity applications but may require further optimization or adjustments to improve its predictive power.
